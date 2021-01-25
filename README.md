@@ -16,7 +16,7 @@ Podera encontrar meus serviços atravéz dos portais:
 
 ou entrando em contato por
 
-[![Gmail](https://img.shields.io/badge/Gmail-teste?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) flaviogalvao0912@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836-flaviogalvao@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) flaviogalvao0912@gmail.com
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) (61) 98480-8099
 
 
