@@ -1,5 +1,4 @@
 ### Seja Bem-Vindo!! :punch:
-## canais de contato
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FlavioGalvao)](https://github.com/FlavioGalvao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/)
@@ -11,8 +10,7 @@ Sou um desenvolvedor FullStack {backend, frontend e mobile} atualmente trabalhan
 
 [![Trabalho](https://img.shields.io/badge/Trabalho-Aberto%20a%20oportunidades-green?style=for-the-badge)](none)
 
-Você pode conferir alguns trabalhos aqui embaixo, separado por categorias. Para verificar o design completo,sé só acessar a pasta :file_folder: design.
-
+Você pode conferir alguns trabalhos aqui embaixo, separado por categorias. Para verificar o design completo,sé só acessar a pasta :file_folder: _design_.
 
 
 <!--
