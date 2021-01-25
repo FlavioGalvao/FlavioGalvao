@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor FullStack {backend, frontend e mobile} atualmente trabalhando como Freelancer
 
-[Badge](https://img.shields.io/badge/Trabalho-Aberto%20a%20oportunidades-green?style=for-the-badge)
+[![Badge](https://img.shields.io/badge/Trabalho-Aberto%20a%20oportunidades-green?style=for-the-badge)]
 
 
 
