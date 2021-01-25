@@ -6,7 +6,7 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor FullStack {backend, frontend e mobile} atualmente trabalhando como Freelancer, 
+Sou um desenvolvedor FullStack {backend, frontend e mobile} atualmente trabalhando como Freelancer, também faço trabalhos como PJ.
 
 Podera encontrar meus serviços atravéz dos portais:
 
@@ -16,8 +16,8 @@ Podera encontrar meus serviços atravéz dos portais:
 
 ou entrando em contato por
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) flaviogalvao0912@gmail.com
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) (61) 98480-8099
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) flaviogalvao0912@gmail.com <br />
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) (61) 98480-8099
 
 
 [![Projetos](https://img.shields.io/badge/Projetos%20Concluídos-20-9cf?style=flat-square)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/)
