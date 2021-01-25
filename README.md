@@ -16,8 +16,8 @@ Podera encontrar meus serviços atravéz dos portais:
 
 ou entrando em contato por
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) flaviogalvao0912@gmail.com <br />
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366%2061%20984808099?style=flat-square&logo=whatsapp&logoColor=white)](61) 98480-8099
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=use-for-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/) flaviogalvao0912@gmail.com <br />
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366%2061%20984808099?style=use-for-badge&logo=whatsapp&logoColor=white)](61) 98480-8099
 
 
 [![Situação](https://img.shields.io/badge/Situação-Ativo-limeGreen?style=flat-square)](https://www.linkedin.com/in/fl%C3%A1vio-galv%C3%A3o-0ba912150/)
@@ -25,5 +25,6 @@ ou entrando em contato por
 
 ### Projetos
 
-Você pode conferir alguns trabalhos logo abaixo. Para verificar o __design__ completo,sé só acessar a pasta :file_folder: __design__ do repositório.
+Você pode conferir alguns trabalhos logo abaixo. Para verificar __prints__ do projeto completo, é só acessar a pasta :file_folder: __design__ do repositório.
 
+_last att, 25 Janeiro 2020_
