@@ -25,3 +25,5 @@ ou entrando em contato por
 
 Você pode conferir alguns trabalhos logo abaixo. Para verificar __prints__ do projeto completo, é só acessar a pasta :file_folder: __design__ do repositório.
 
+Obs: atualmente esttour fazendo um backup dos projetos, irei colocar assim que possivel.
+
